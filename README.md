@@ -47,6 +47,21 @@ Supported configurations are:
 
     + Time, in seconds, whose redis will caches the pre-rendered page. Default values is one day(86400).
 
-+ **user:** ""
+Acknowledgements
+----------------
+
+Thanks to the following for making branches with changes which were merged with the 0.2.0 release. 
+
+
+Fantastic Prerender team.
+
+@nelsonkopliku
+
+@eddietio
+
+@irnc
+
+Todo
+----
 
 + **password:** ""
